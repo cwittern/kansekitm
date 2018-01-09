@@ -1,4 +1,5 @@
 資治通鑑 唐記 標記版
 # p 未公開資治通鑑宋司馬光中華書局北京1956
-                    第七(p.5771)〜第九(p.8666)冊
+第七(p.5771)〜第九(p.8666)冊
                 
+Please see http://tkb.zinbun.kyoto-u.ac.jp:8899/exist/rest/db/new/new.html for the original version of this corpus.
