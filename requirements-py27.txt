@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.4
 backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
 BeautifulSoup==3.2.1
-bleach==1.5.0
+bleach==3.1.4
 boto==2.48.0
 bottle==0.12.13
 brewer2mpl==1.4.1
