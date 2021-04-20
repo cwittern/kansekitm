@@ -72,7 +72,7 @@ progressbar2==3.34.3
 prompt-toolkit==1.0.15
 protobuf==3.4.0
 ptyprocess==0.5.2
-py==1.5.2
+py==1.10.0
 pybtex==0.21
 pycryptodome==3.4.7
 Pygments==2.2.0
