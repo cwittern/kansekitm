@@ -111,7 +111,7 @@ tornado==4.5.2
 traitlets==4.3.2
 ujson==1.35
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 vsm==0.4.1
 wcwidth==0.1.7
 webencodings==0.5.1
