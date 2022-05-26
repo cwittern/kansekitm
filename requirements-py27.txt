@@ -101,7 +101,7 @@ smart-open==1.5.3
 sortedcontainers==1.5.7
 statsmodels==0.8.0
 subprocess32==3.2.7
-tensorflow==1.4.0
+tensorflow==2.7.2
 tensorflow-tensorboard==0.4.0rc2
 terminado==0.6
 testfixtures==5.3.1
