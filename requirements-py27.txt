@@ -9,7 +9,7 @@ boto==2.48.0
 bottle==0.12.13
 brewer2mpl==1.4.1
 bz2file==0.98
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 configparser==3.5.0
 ctext==0.265
